@@ -1,0 +1,17 @@
+April 23
+Implemented the classes & pipes
+
+April 25
+Implemented the drawing of the map and the generation of the pipes on the map
+
+April 27
+Added the function where flappy will go downwards if there is no user imput and upwards if spacebar was pressed
+
+April 29
+Added the "movement" of the screen where the screen will move to the left constantly.  
+
+April 30
+Added a starting page based on image:
+ https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.wired.com%2Fimages_blogs%2Fgamelife%2F2014%2F02%2Ftitle.jpg&tbnid=a8kFSQPwvjjSSM&vet=12ahUKEwiv4bn8_97-AhV4zMkDHWieCikQMygDegUIARDzAQ..i&imgrefurl=https%3A%2F%2Fwww.wired.com%2F2014%2F02%2Fflappy-bird%2F&docid=Xd6ZftRsf0luhM&w=1500&h=1000&q=flappy%20bird&ved=2ahUKEwiv4bn8_97-AhV4zMkDHWieCikQMygDegUIARDzAQ
+Added animation of the flapping wings
+Also implemented the coloring to the pipes and flappy.
