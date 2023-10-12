@@ -1,5 +1,5 @@
 This is a flappy game implemented in C++ and using Ncurses. 
-I implemented this game with the reference to multiple resources online, including:
+Online reference:
 https://github.com/zhimin-z/Flappy-Bird
 https://github.com/arfar/flappy-curses
 https://github.com/hamikm/AsciiBird
